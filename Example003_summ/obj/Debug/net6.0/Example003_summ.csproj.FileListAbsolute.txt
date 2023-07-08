@@ -1,0 +1,15 @@
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example003_summ\obj\Debug\net6.0\Example003_summ.csproj.AssemblyReference.cache
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example003_summ\obj\Debug\net6.0\Example003_summ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example003_summ\obj\Debug\net6.0\Example003_summ.AssemblyInfoInputs.cache
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example003_summ\obj\Debug\net6.0\Example003_summ.AssemblyInfo.cs
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example003_summ\obj\Debug\net6.0\Example003_summ.csproj.CoreCompileInputs.cache
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example003_summ\bin\Debug\net6.0\Example003_summ.exe
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example003_summ\bin\Debug\net6.0\Example003_summ.deps.json
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example003_summ\bin\Debug\net6.0\Example003_summ.runtimeconfig.json
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example003_summ\bin\Debug\net6.0\Example003_summ.dll
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example003_summ\bin\Debug\net6.0\Example003_summ.pdb
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example003_summ\obj\Debug\net6.0\Example003_summ.dll
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example003_summ\obj\Debug\net6.0\refint\Example003_summ.dll
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example003_summ\obj\Debug\net6.0\Example003_summ.pdb
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example003_summ\obj\Debug\net6.0\Example003_summ.genruntimeconfig.cache
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example003_summ\obj\Debug\net6.0\ref\Example003_summ.dll
