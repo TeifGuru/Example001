@@ -1,0 +1,15 @@
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.AssemblyReference.cache
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfoInputs.cache
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfo.cs
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.CoreCompileInputs.cache
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.exe
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.deps.json
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.runtimeconfig.json
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.dll
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.pdb
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.dll
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example004_Div\obj\Debug\net6.0\refint\Example004_Div.dll
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.pdb
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.genruntimeconfig.cache
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example004_Div\obj\Debug\net6.0\ref\Example004_Div.dll
