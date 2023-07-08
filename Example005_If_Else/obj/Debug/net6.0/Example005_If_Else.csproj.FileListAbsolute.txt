@@ -1,0 +1,15 @@
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example005_If_Else\obj\Debug\net6.0\Example005_If_Else.csproj.AssemblyReference.cache
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example005_If_Else\obj\Debug\net6.0\Example005_If_Else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example005_If_Else\obj\Debug\net6.0\Example005_If_Else.AssemblyInfoInputs.cache
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example005_If_Else\obj\Debug\net6.0\Example005_If_Else.AssemblyInfo.cs
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example005_If_Else\obj\Debug\net6.0\Example005_If_Else.csproj.CoreCompileInputs.cache
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example005_If_Else\bin\Debug\net6.0\Example005_If_Else.exe
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example005_If_Else\bin\Debug\net6.0\Example005_If_Else.deps.json
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example005_If_Else\bin\Debug\net6.0\Example005_If_Else.runtimeconfig.json
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example005_If_Else\bin\Debug\net6.0\Example005_If_Else.dll
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example005_If_Else\bin\Debug\net6.0\Example005_If_Else.pdb
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example005_If_Else\obj\Debug\net6.0\Example005_If_Else.dll
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example005_If_Else\obj\Debug\net6.0\refint\Example005_If_Else.dll
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example005_If_Else\obj\Debug\net6.0\Example005_If_Else.pdb
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example005_If_Else\obj\Debug\net6.0\Example005_If_Else.genruntimeconfig.cache
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example005_If_Else\obj\Debug\net6.0\ref\Example005_If_Else.dll
