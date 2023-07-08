@@ -1,0 +1,15 @@
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example006_base\bin\Debug\net6.0\Example006_base.exe
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example006_base\bin\Debug\net6.0\Example006_base.deps.json
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example006_base\bin\Debug\net6.0\Example006_base.runtimeconfig.json
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example006_base\bin\Debug\net6.0\Example006_base.dll
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example006_base\bin\Debug\net6.0\Example006_base.pdb
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example006_base\obj\Debug\net6.0\Example006_base.csproj.AssemblyReference.cache
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example006_base\obj\Debug\net6.0\Example006_base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example006_base\obj\Debug\net6.0\Example006_base.AssemblyInfoInputs.cache
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example006_base\obj\Debug\net6.0\Example006_base.AssemblyInfo.cs
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example006_base\obj\Debug\net6.0\Example006_base.csproj.CoreCompileInputs.cache
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example006_base\obj\Debug\net6.0\Example006_base.dll
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example006_base\obj\Debug\net6.0\refint\Example006_base.dll
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example006_base\obj\Debug\net6.0\Example006_base.pdb
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example006_base\obj\Debug\net6.0\Example006_base.genruntimeconfig.cache
+D:\Учёба\Знакомство с языками\02.07. Лекция. С++\Examples\Example006_base\obj\Debug\net6.0\ref\Example006_base.dll
